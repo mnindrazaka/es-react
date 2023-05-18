@@ -1,0 +1,25 @@
+{
+  "name": "es-react",
+  "version": "1.0.0",
+  "description": "setup React development with ES Build",
+  "main": "index.js",
+  "scripts": {
+    "build": "node esbuild.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnindrazaka/es-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnindrazaka/es-react/issues"
+  },
+  "homepage": "https://github.com/mnindrazaka/es-react#readme",
+  "dependencies": {
+    "esbuild": "0.17.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
